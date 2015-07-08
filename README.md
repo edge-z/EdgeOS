@@ -1,0 +1,2 @@
+# EdgeOS
+xor EdgeOS, EdgeOS
